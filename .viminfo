@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1726736679,,"wq!"
+=======
+|2,0,1726736159,,"wq!"
+>>>>>>> mergeexample
 :q!
 |2,0,1726734954,,"q!"
 :wqQ
@@ -29,22 +33,37 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  2  0  ~/calculator.sh
 |4,48,2,0,1726736679,"~/calculator.sh"
 '1  11  9  ~/calculator.sh
 |4,49,11,9,1726735328,"~/calculator.sh"
+=======
+'0  10  15  ~/calculator.sh
+|4,48,10,15,1726736159,"~/calculator.sh"
+'1  8  9  ~/calculator.sh
+|4,49,8,9,1726735328,"~/calculator.sh"
+>>>>>>> mergeexample
 '2  8  9  ~/calculator.sh
 |4,50,8,9,1726735328,"~/calculator.sh"
 '3  5  0  ~/.gitconfig
 |4,51,5,0,1726735084,"~/.gitconfig"
+<<<<<<< HEAD
 '4  8  13  ~/calculator.sh
 |4,52,8,13,1726734954,"~/calculator.sh"
 '5  8  13  ~/calculator.sh
 |4,53,8,13,1726734954,"~/calculator.sh"
+=======
+'4  5  13  ~/calculator.sh
+|4,52,5,13,1726734954,"~/calculator.sh"
+'5  5  13  ~/calculator.sh
+|4,53,5,13,1726734954,"~/calculator.sh"
+>>>>>>> mergeexample
 '6  5  13  ~/calculator.sh
 |4,54,5,13,1726734954,"~/calculator.sh"
 '7  5  13  ~/calculator.sh
 |4,55,5,13,1726734954,"~/calculator.sh"
+<<<<<<< HEAD
 '8  8  13  ~/calculator.sh
 |4,56,8,13,1726734736,"~/calculator.sh"
 '9  8  13  ~/calculator.sh
@@ -55,10 +74,24 @@
 |4,39,2,0,1726736679,"~/calculator.sh"
 -'  11  9  ~/calculator.sh
 |4,39,11,9,1726736600,"~/calculator.sh"
+=======
+'8  5  13  ~/calculator.sh
+|4,56,5,13,1726734736,"~/calculator.sh"
+'9  5  13  ~/calculator.sh
+|4,57,5,13,1726734736,"~/calculator.sh"
+
+# Jumplist (newest first):
+-'  10  15  ~/calculator.sh
+|4,39,10,15,1726736159,"~/calculator.sh"
+-'  8  9  ~/calculator.sh
+|4,39,8,9,1726736123,"~/calculator.sh"
+>>>>>>> mergeexample
 -'  8  9  ~/calculator.sh
 |4,39,8,9,1726735328,"~/calculator.sh"
 -'  8  13  ~/calculator.sh
 |4,39,8,13,1726735288,"~/calculator.sh"
+-'  5  13  ~/calculator.sh
+|4,39,5,13,1726735288,"~/calculator.sh"
 -'  5  13  ~/calculator.sh
 |4,39,5,13,1726735288,"~/calculator.sh"
 -'  5  0  ~/.gitconfig
@@ -98,11 +131,15 @@
 -'  3  4  ~/calculator.sh
 |4,39,3,4,1726734684,"~/calculator.sh"
 -'  3  4  ~/calculator.sh
+|4,39,3,4,1726734684,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
 |4,39,3,4,1726729913,"~/calculator.sh"
 -'  3  4  ~/calculator.sh
 |4,39,3,4,1726729913,"~/calculator.sh"
 -'  5  11  ~/calculator.sh
 |4,39,5,11,1726729865,"~/calculator.sh"
+-'  2  11  ~/calculator.sh
+|4,39,2,11,1726729865,"~/calculator.sh"
 -'  2  11  ~/calculator.sh
 |4,39,2,11,1726729865,"~/calculator.sh"
 -'  2  11  ~/calculator.sh
@@ -149,6 +186,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/calculator.sh
+<<<<<<< HEAD
 	*	1726736675	0
 	"	2	0
 	^	2	0
@@ -164,6 +202,17 @@
 	+	2	1
 	+	4	0
 	+	2	0
+=======
+	*	1726736156	0
+	"	10	15
+	^	10	16
+	.	10	15
+	+	2	19
+	+	3	5
+	+	5	14
+	+	8	10
+	+	10	15
+>>>>>>> mergeexample
 
 > ~/.gitconfig
 	*	1726735082	0
